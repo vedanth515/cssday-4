@@ -1,0 +1,30 @@
+
+
+
+header{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.parent-container{
+    display: flex;
+    background-color: white;
+    /* padding: 5px; */
+    justify-content:space-around;
+    margin: 70px 150px;
+    gap: 10px;
+    flex-wrap: wrap;
+    font-style: italic;
+    /* border-radius: 5px; */
+   
+}
+
+.p{
+    background-color:lightcorals;
+    padding: 20px;
+    border-radius: 5px;
+      
+}
+
+
+
